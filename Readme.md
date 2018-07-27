@@ -2,7 +2,7 @@ Click on the link below to watch the demo video.
 
 https://youtu.be/YtT2n4MWTOs
 
-Depencies:
+Dependencies:
 
 NI Labview 2016 (National Instruments)
 

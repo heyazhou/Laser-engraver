@@ -1,6 +1,4 @@
-Click on the link below to watch the demo video.
-
-https://youtu.be/YtT2n4MWTOs
+Click on the [link]('https://youtu.be/YtT2n4MWTOs') to watch the demo video.
 
 Dependencies:
 
